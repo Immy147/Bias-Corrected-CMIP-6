@@ -1,0 +1,13 @@
+xarray
+numpy
+pandas
+matplotlib
+scipy
+rioxarray
+geopandas
+netCDF4
+affine
+rasterio
+boto3
+concurrent.futures
+
