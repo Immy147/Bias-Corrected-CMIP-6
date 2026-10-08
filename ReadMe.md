@@ -989,8 +989,6 @@ Potential extensions of this project include:
 * SPEI/SPI drought analysis
 * Flood-frequency analysis
 * Low-flow analysis
-* Spatial uncertainty analysis
-* Scenario comparison
 * SWAT+ calibration and validation automation
 * Climate-impact attribution
 * Automated research-quality reporting
