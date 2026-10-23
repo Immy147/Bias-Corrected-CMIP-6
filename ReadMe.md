@@ -58,7 +58,6 @@ The workflow is designed to address several research objectives:
 * Quantify uncertainty associated with extreme-value estimation.
 * Compare historical and future climate conditions.
 * Support climate-impact and water-resource assessments.
-* Provide a reproducible framework for climate-to-hydrology research.
 
 ---
 
