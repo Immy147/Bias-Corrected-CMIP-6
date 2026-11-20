@@ -9,7 +9,7 @@
 
 This repository provides a reproducible workflow for **downloading, preprocessing, bias-correcting, and analyzing CMIP6 climate projections for hydrological modeling using SWAT+**.
 
-The workflow connects global climate model (GCM) projections with hydrological modeling by transforming raw CMIP6 climate data into standardized, bias-corrected, and SWAT+-compatible climate inputs.
+The workflow connects global climate model (GCM) projections with hydrological modelling by transforming raw CMIP6 climate data into standardized, bias-corrected, and SWAT+-compatible climate inputs.
 
 The overall framework consists of:
 
